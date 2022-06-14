@@ -22,3 +22,10 @@ This projects gives me a chance to properly revisit the Spring Framework as well
 #### What would make your experience with this assessment better?
 - I am glad we were given an assessment which was similar to the demo web project to give us a better chance to reinforce the concepts taught in class. The whole structure of this assessment is very similar to the demo web project. 
 - Sufficient time was given for the assessment but the time we have for assessment preparation is too little. 
+
+#### Project Sample
+![image](https://user-images.githubusercontent.com/102950310/173625314-66a514e7-18ea-4ac0-b15f-fc346c351bcc.png)
+![image](https://user-images.githubusercontent.com/102950310/173625506-cf5a9276-47e7-40cf-88f9-1a48319772d7.png)
+
+
+
