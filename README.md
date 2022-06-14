@@ -7,7 +7,7 @@ Our job was to build a full-stack To-do list application using Java and the Spri
 2)	Add Todo list: Create a web page to allow users to add their Todo list. The form allows users to enter their Todo list details. When users click on the ‘Add’ button, the newly entered information will be added to the MySQL database. 
 
 #### What did you like about this project?
-This projects gives me a chances to properly revisit the Spring Framework as well as better understand the Spring Boot flow architecture. While completing this assessment with the use of Jean's videos. I better understood how the backend is created with the use of SpringBoot i.e.
+This projects gives me a chance to properly revisit the Spring Framework as well as better understand the Spring Boot flow architecture. While completing this assessment with the use of Jean's videos. I better understood how the backend is created with the use of SpringBoot i.e.
 - Model - model component is used to map the database (relational mapping)
 - service layer - provides services/ methods as required by controller
 - Controller - to get HTTP requests from client and then call the different service nethods accordingly. Inside the controller itself, need to create a class known as - Item DTO (Data Transfer Object)
