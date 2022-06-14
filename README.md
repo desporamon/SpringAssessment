@@ -15,10 +15,10 @@ This projects gives me a chance to properly revisit the Spring Framework as well
 - Concept of Dependency Injection (DI) - i.e. ItemServiceSQL class object needs to depend on ItemRepository Interface to perform actions, therefore need to "inject" the item repository object to the ItemServiceMySQL class object
 
 #### What did you struggle with in this project?
-- The concepts taught in class were too much, impossible to comprehend all information/resources with everything that was taught in less than 5 days. Appreciated the concepts taught to give us a big picture to understand the flow architecture properly. Finally enlightened to see how the front end is connect to backend and how to setup database connection. Would have appreciated if we were given more time to digest and do up our own notes properly for self-understanding. 
+- The concepts taught in class were too much, impossible to comprehend all information/resources with everything that was taught in less than 5 days. Appreciated the concepts taught to give us a big picture to understand the flow architecture properly. Finally enlightened to see how the front end is connected to backend and how to setup database connection. Would have appreciated if we were given more time to digest and do up our own notes properly for self-understanding. 
 - Without the videos and the demo web project by Jean, it will be an even bigger struggle.
 - I am a visual person who needs to understand the big picture and the flow architecture instead of jumping right into coding. 
 
 #### What would make your experience with this assessment better?
-- I am glad we were given an assessment which was similar to the demo web project to give us a better chance to reinforce the concepts taught in class.
+- I am glad we were given an assessment which was similar to the demo web project to give us a better chance to reinforce the concepts taught in class. The whole structure of this assessment is very similar to the demo web project. 
 - Sufficient time was given for the assessment but the time we have for assessment preparation is too little. 
